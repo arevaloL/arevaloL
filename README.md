@@ -8,7 +8,7 @@
 
 # 🦅 Sobre mim
 
-💻 Olá! Sou o Lucas, um estudante de programação e entusiasta da tecnologia. Dedicado a explorar e expandir meu conhecimento no mundo!
+💻 Olá! Sou o Lucas, um estudante de programação e entusiasta da tecnologia. Dedicado a explorar e expandir meu conhecimento no mundo! Atualmente atuo como Back-End, mas pretendo realizar a migração para Front-End ou até mesmo me aventurar no mundo do Fullstack.
 
 🌱 Busco constantemente aprender e melhorar minhas habilidades nas áreas de programação, incluindo desenvolvimento de software e segurança da informação. Acredito que a busca de conhecimento constante e curiosidade são a chave para o sucesso nesta indústria em evolução infinita.
 
